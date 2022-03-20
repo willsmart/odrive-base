@@ -4,13 +4,18 @@
   "author": "Jeremy Ebert",
   "version": "0.0.5",
   "dependencies": {
-        "@primeeuler/fibre": "^0.0.4",
-        "int64-buffer": "^0.99.1007"
-    },
-    "repository": {
+    "@primeeuler/fibre": "^0.0.4",
+    "int64-buffer": "^0.99.1007"
+  },
+  "repository": {
     "type": "git",
     "url": "https://github.com/PrimeEuler/odrive.git"
-   },
-   "keywords": [ "Fibre", "Odrive", "RPC", "marshalling" ],
-   "license": "MIT"
+  },
+  "keywords": [
+    "Fibre",
+    "Odrive",
+    "RPC",
+    "marshalling"
+  ],
+  "license": "MIT"
 }
